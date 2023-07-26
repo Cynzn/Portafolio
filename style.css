@@ -1,0 +1,83 @@
+
+
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+
+#programa{
+    width: 200px;
+}
+ #proyecto-1{
+   background-color:#6DBAE3; 
+ }
+ #proyecto-2{
+    background-color:#6DBAE3; 
+  }
+
+ #encabezado {
+    background-color:#CBD3FF;
+ }
+
+ #opciones{
+    font-weight: 700;
+    font-family: "Nunito_Sans variant1", Tofu;
+
+ }
+
+.lead{
+    font-family: "Oswald variant0", Tofu;;
+}
+.bg-primary{
+    background-color: #CBD3FF!important;
+}
+
+.nav-link{
+    color: #000000!important;
+}
+
+.text-bg-primary {
+    background-color: #6DBAE3!important;
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #CBD3FF;
+}
+
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #CBD3FF;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:black;
+}
+
+.icono{
+    width: 50px;
+}
+
+.icono {
+    font-size: 2rem;
+    color: white;
+    margin: 12px;
+}
+
+#coreano{
+    text-align: end;
+}
+#tecno{
+    text-align: end;
+}
+#clon{
+    text-align: end;
+}
